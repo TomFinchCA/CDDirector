@@ -1,5 +1,5 @@
 ---
 modules:
   blazemeter:
-    token: <Your BlazeMeter API Key>
-    test: <Test Name in BlazeMeter>
+    token: t0j9eruxtkbfne1mu1y2
+    test: Jenkins Build Load Test - Tom
